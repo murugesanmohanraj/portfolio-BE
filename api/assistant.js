@@ -1,5 +1,3 @@
-const { getAssistantReply } = require("../src/services/llm.service");
-
 module.exports = async (req, res) => {
   // simple CORS handling so Netlify frontend can call this
   res.setHeader("Access-Control-Allow-Origin", "*");
@@ -17,6 +15,9 @@ module.exports = async (req, res) => {
   }
 
   try {
+    // require inside handler to avoid module-load crashes in serverless runtime
+    const { getAssistantReply } = require("../src/services/llm.service");
+
     const body = req.body
       ? typeof req.body === "object"
         ? req.body
@@ -28,6 +29,7 @@ module.exports = async (req, res) => {
     const reply = await getAssistantReply(question, options);
     res.status(200).json(reply);
   } catch (err) {
+    console.error("assistant error:", err);
     res.status(500).json({ error: err?.message || String(err) });
   }
 };

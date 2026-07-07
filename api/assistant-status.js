@@ -1,5 +1,3 @@
-const { checkLLMStatus } = require("../src/services/llm.service");
-
 module.exports = async (req, res) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET,POST,OPTIONS");
@@ -16,9 +14,12 @@ module.exports = async (req, res) => {
   }
 
   try {
+    // require inside handler to avoid module-load crashes in serverless runtime
+    const { checkLLMStatus } = require("../src/services/llm.service");
     const status = await checkLLMStatus();
     res.status(200).json(status);
   } catch (err) {
+    console.error("assistant-status error:", err);
     res.status(500).json({ error: err?.message || String(err) });
   }
 };
