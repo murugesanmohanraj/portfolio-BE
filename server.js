@@ -61,7 +61,10 @@ async function handler(req, res) {
     return;
   }
 
-  const url = new URL(req.url || "/", `http://${req.headers.host || "localhost"}`);
+  const url = new URL(
+    req.url || "/",
+    `http://${req.headers.host || "localhost"}`,
+  );
   const pathname = url.pathname;
 
   if (pathname === "/" || pathname === "/health") {
@@ -69,11 +72,16 @@ async function handler(req, res) {
       "Content-Type": "application/json",
       "Access-Control-Allow-Origin": origin,
     });
-    res.end(JSON.stringify({ status: "ok", service: "portfolio-assistant-backend" }));
+    res.end(
+      JSON.stringify({ status: "ok", service: "portfolio-assistant-backend" }),
+    );
     return;
   }
 
-  if (pathname === "/api/assistant-status" || pathname === "/assistant-status") {
+  if (
+    pathname === "/api/assistant-status" ||
+    pathname === "/assistant-status"
+  ) {
     try {
       const status = await checkLLMStatus();
       res.writeHead(200, {

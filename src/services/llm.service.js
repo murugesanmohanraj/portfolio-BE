@@ -47,11 +47,14 @@ async function getAssistantReply(userMessage, options = {}) {
     });
   }
 
-  const apiKey = process.env.AI_API_KEY || process.env.OPENAI_API_KEY;
+  const apiKey =
+    process.env.AI_API_KEY ||
+    process.env.BYNARA_API_KEY ||
+    process.env.OPENAI_API_KEY;
   if (!apiKey) {
     return normalizeAssistantResponse({
       answer:
-        "The AI service is not configured yet. Please add AI_API_KEY or OPENAI_API_KEY to enable live responses.",
+        "The AI service is not configured yet. Please add AI_API_KEY, BYNARA_API_KEY, or OPENAI_API_KEY to enable live responses.",
       actions: [],
       suggestions: ["Try a simple question", "Use the fallback experience"],
       mode: "fallback",
@@ -151,7 +154,10 @@ async function getAssistantReply(userMessage, options = {}) {
 module.exports = { getAssistantReply };
 
 async function checkLLMStatus() {
-  const apiKey = process.env.AI_API_KEY || process.env.OPENAI_API_KEY;
+  const apiKey =
+    process.env.AI_API_KEY ||
+    process.env.BYNARA_API_KEY ||
+    process.env.OPENAI_API_KEY;
   if (!apiKey) {
     return { status: "unconfigured", detail: "No API key configured" };
   }
