@@ -80,7 +80,8 @@ async function handler(req, res) {
 
   if (
     pathname === "/api/assistant-status" ||
-    pathname === "/assistant-status"
+    pathname === "/assistant-status" ||
+    pathname === "/api/assistant/status"
   ) {
     try {
       const status = await checkLLMStatus();
