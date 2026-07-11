@@ -1,0 +1,1 @@
+Wood Mackenzie is a commercial intelligence and analytics company focused on energy and natural resources. The Lens platform is a sustainability SaaS product used to analyze energy and emissions data; Mohanraj's work includes building customer-facing features and GraphQL integrations.

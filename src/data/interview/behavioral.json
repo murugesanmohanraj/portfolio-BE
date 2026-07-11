@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "answer": "I'm Mohanraj Murugesan, a Senior Full Stack Engineer with over 4 years of experience building scalable web applications. I currently work at GlobalLogic, developing customer-facing features for Wood Mackenzie's Lens Platform, a sustainability SaaS product. My expertise includes React, TypeScript, Next.js, Node.js, GraphQL, and AWS. I enjoy solving complex problems, improving application performance, and building products that deliver real business value."
+  },
+  {
+    "question": "Why are you looking for a new opportunity?",
+    "answer": "I'm looking for opportunities where I can work on larger technical challenges, continue growing as a software engineer, and contribute to products used by people worldwide. I'm particularly interested in companies that value engineering excellence, modern technologies, and continuous learning."
+  },
+  {
+    "question": "Why should we hire you?",
+    "answer": "I bring strong frontend expertise backed by full-stack experience. I've worked across healthcare, e-commerce, Point of Sale, and sustainability SaaS platforms, delivering production-ready features using React, TypeScript, Node.js, and GraphQL. Beyond technical skills, I focus on clean architecture, performance optimization, collaboration, and delivering reliable software."
+  },
+  {
+    "question": "What are your greatest strengths?",
+    "answer": "My biggest strengths are problem-solving, quickly learning new technologies, writing maintainable code, and taking ownership of features from design to deployment. I also enjoy collaborating with cross-functional teams and continuously improving both the product and development process."
+  },
+  {
+    "question": "What is one area you're currently improving?",
+    "answer": "I'm expanding my knowledge in AI engineering, including LLM integration, Retrieval-Augmented Generation (RAG), embeddings, prompt engineering, and building AI-powered applications. I recently built an AI Portfolio Assistant to gain practical experience in this area."
+  },
+  {
+    "question": "Describe a challenging project you've worked on.",
+    "answer": "One challenging project was developing features for the Wood Mackenzie Lens Platform. The application contained multiple micro-frontends, large datasets, GraphQL APIs, feature flags, and performance requirements. I focused on building reusable components, improving maintainability, and optimizing performance while collaborating with distributed teams."
+  },
+  {
+    "question": "Tell me about a time you improved performance.",
+    "answer": "At Millennium, I optimized frontend performance by improving responsive layouts and reducing unnecessary rendering, which decreased page load time by approximately 40%. At GlobalLogic, I also contributed to frontend optimizations using efficient state management and API caching strategies."
+  },
+  {
+    "question": "Tell me about an achievement you're proud of.",
+    "answer": "One achievement I'm proud of is receiving an Appreciation Award at Millennium for improving application responsiveness across devices and reducing page load time by around 40%. More recently, I'm proud of independently building my AI Portfolio Assistant, which combines React, Node.js, and AI concepts into a practical real-world project."
+  },
+  {
+    "question": "How do you handle tight deadlines?",
+    "answer": "I begin by understanding the priorities, breaking work into smaller tasks, communicating progress regularly, and focusing on delivering the highest-value functionality first. I also identify risks early and collaborate closely with the team to avoid last-minute surprises."
+  },
+  {
+    "question": "How do you handle feedback?",
+    "answer": "I see feedback as an opportunity to improve. I welcome code reviews and discussions because they help me learn better approaches, improve code quality, and become a stronger engineer."
+  },
+  {
+    "question": "Describe your teamwork style.",
+    "answer": "I enjoy working in collaborative environments where developers, designers, QA engineers, and product managers work together toward shared goals. I communicate openly, share knowledge, and help teammates whenever possible."
+  },
+  {
+    "question": "How do you learn new technologies?",
+    "answer": "I learn by combining documentation, hands-on projects, and practical experimentation. When I became interested in AI, I didn't just read about it—I built an AI Portfolio Assistant to understand how LLMs, prompts, streaming responses, and knowledge bases work in practice."
+  },
+  {
+    "question": "Where do you see yourself in five years?",
+    "answer": "I see myself as a senior engineering leader or technical expert building large-scale products, mentoring engineers, and contributing to modern frontend and AI-powered applications. I want to continue learning while delivering products that have meaningful business impact."
+  },
+  {
+    "question": "Why do you enjoy software engineering?",
+    "answer": "I enjoy solving problems and turning ideas into products that people use every day. Software engineering gives me the opportunity to continuously learn, build innovative solutions, and make a measurable impact through technology."
+  },
+  {
+    "question": "Are you willing to relocate?",
+    "answer": "Yes. I am currently based in India and am willing to relocate for the right opportunity. I have been actively applying for international roles and am prepared to relocate once the required visa process is completed."
+  }
+]

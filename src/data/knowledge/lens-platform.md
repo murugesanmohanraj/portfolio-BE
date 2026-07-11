@@ -1,0 +1,1 @@
+Lens Platform is Wood Mackenzie's enterprise SaaS product for sustainability analytics. Key areas include data visualization, API integrations, and enterprise workflows; frontend work focuses on performance and usability for large datasets.

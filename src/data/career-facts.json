@@ -1,0 +1,130 @@
+{
+  "experience": {
+    "years": "5+",
+    "companiesWorked": 3,
+    "currentCompany": "GlobalLogic",
+    "currentClient": "Wood Mackenzie",
+    "currentRole": "Senior Software Engineer"
+  },
+
+  "career": {
+    "industries": [
+      "Enterprise SaaS",
+      "Sustainability",
+      "Healthcare",
+      "Retail",
+      "Point of Sale (POS)",
+      "E-commerce"
+    ],
+    "roles": ["Senior Software Engineer", "Software Engineer"]
+  },
+
+  "performance": {
+    "applicationLoadTimeReduction": "50%",
+    "pageLoadTimeReduction": "40%",
+    "responsivenessImprovement": "Desktop, Tablet and Mobile"
+  },
+
+  "recognition": [
+    {
+      "title": "Appreciation Award",
+      "company": "Millennium IMS Pvt Ltd",
+      "reason": "Recognized for improving application responsiveness across all devices and reducing page load time by approximately 40%."
+    }
+  ],
+
+  "frontend": {
+    "primaryFramework": "React",
+    "languages": ["JavaScript", "TypeScript"],
+    "frameworks": ["React", "Next.js", "React Native"]
+  },
+
+  "backend": {
+    "frameworks": ["Node.js", "Express.js"],
+    "apis": ["REST", "GraphQL"]
+  },
+
+  "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+
+  "cloud": {
+    "provider": "AWS",
+    "services": ["Lambda", "S3", "CloudFront", "EC2", "ECS", "DynamoDB"]
+  },
+
+  "testing": ["Jest", "Playwright", "Cypress"],
+
+  "devops": ["Docker", "Jenkins", "GitHub Actions", "Git"],
+
+  "architecture": [
+    "Micro Frontends",
+    "Reusable Component Architecture",
+    "SSR",
+    "SSG",
+    "CSR",
+    "Performance Optimization",
+    "Responsive Design"
+  ],
+
+  "featureFlags": ["LaunchDarkly"],
+
+  "ai": {
+    "experience": [
+      "Prompt Engineering",
+      "LLM Integration",
+      "Streaming AI Responses",
+      "AI Portfolio Assistant"
+    ],
+    "currentlyLearning": [
+      "RAG",
+      "Embeddings",
+      "Vector Databases",
+      "Local LLM Deployment"
+    ]
+  },
+
+  "projects": {
+    "professional": [
+      "Wood Mackenzie Lens Platform",
+      "Food Bazaar",
+      "POS Management System",
+      "Healthcare Management System"
+    ],
+    "personal": ["AI Portfolio Assistant", "Developer Portfolio"]
+  },
+
+  "strengths": [
+    "Frontend Architecture",
+    "React Development",
+    "TypeScript",
+    "Performance Optimization",
+    "Reusable Component Design",
+    "Enterprise SaaS Development",
+    "Full Stack Development",
+    "GraphQL Integration",
+    "Problem Solving",
+    "Clean Code"
+  ],
+
+  "softSkills": [
+    "Ownership",
+    "Team Collaboration",
+    "Communication",
+    "Mentoring",
+    "Continuous Learning",
+    "Code Reviews",
+    "Agile Development"
+  ],
+
+  "careerGoals": [
+    "Build AI-powered products",
+    "Work on scalable SaaS platforms",
+    "Lead frontend architecture",
+    "Continue learning modern AI technologies"
+  ],
+
+  "availability": {
+    "status": "Open to opportunities",
+    "relocation": true,
+    "preferredLocations": ["Germany", "Europe", "Remote"]
+  }
+}

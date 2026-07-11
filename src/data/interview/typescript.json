@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Why do you use TypeScript?",
+    "answer": "I use TypeScript to build scalable and maintainable applications. It helps catch errors during development, improves code readability, provides better IDE support, and makes refactoring much safer, especially in large React and Node.js applications."
+  },
+  {
+    "question": "What are the benefits of TypeScript over JavaScript?",
+    "answer": "TypeScript adds static typing, interfaces, generics, enums, utility types, and better tooling on top of JavaScript. It helps reduce runtime errors and improves developer productivity in large codebases."
+  },
+  {
+    "question": "What is the difference between interface and type?",
+    "answer": "Both define object shapes. I typically use interfaces for object contracts and API models because they can be extended, while I use type aliases for unions, intersections, tuples, and more complex type compositions."
+  },
+  {
+    "question": "When would you choose interface over type?",
+    "answer": "I prefer interfaces for defining component props, API responses, and class contracts because they support declaration merging and are easier to extend. I use type aliases when working with unions or mapped types."
+  },
+  {
+    "question": "What are generics?",
+    "answer": "Generics allow writing reusable components and functions while preserving type safety. I've used generics in reusable React components, utility functions, custom hooks, and API response models."
+  },
+  {
+    "question": "What are union types?",
+    "answer": "Union types allow a variable to hold multiple possible types using the | operator. They are useful for handling different states, API responses, and optional values safely."
+  },
+  {
+    "question": "What are intersection types?",
+    "answer": "Intersection types combine multiple types into one using the & operator. I use them when composing objects from multiple interfaces or extending existing models."
+  },
+  {
+    "question": "What are utility types?",
+    "answer": "Utility types are built-in helpers like Partial, Required, Pick, Omit, Record, Readonly, and ReturnType. I frequently use Pick and Omit when creating DTOs and Partial when working with update operations."
+  },
+  {
+    "question": "What is type inference?",
+    "answer": "Type inference allows TypeScript to automatically determine a variable's type without explicitly specifying it. I rely on inference whenever possible to keep the code clean while maintaining type safety."
+  },
+  {
+    "question": "What is type narrowing?",
+    "answer": "Type narrowing reduces a union type into a more specific type using checks such as typeof, instanceof, equality checks, or custom type guards. This helps write safer and more predictable code."
+  },
+  {
+    "question": "What is unknown compared to any?",
+    "answer": "The any type disables type checking completely, while unknown requires proper type checking before use. I avoid using any unless absolutely necessary and prefer unknown for safer code."
+  },
+  {
+    "question": "How do you define React component props in TypeScript?",
+    "answer": "I typically create interfaces for component props and use them with functional components. This provides autocomplete, compile-time validation, and better documentation for reusable components."
+  },
+  {
+    "question": "How do you type API responses?",
+    "answer": "I create dedicated interfaces or types for request and response models. This ensures consistent data handling and reduces runtime errors when consuming REST or GraphQL APIs."
+  },
+  {
+    "question": "How do you use TypeScript with React Hooks?",
+    "answer": "I define explicit types for state, refs, context, custom hooks, and asynchronous API responses. This improves maintainability and makes components easier to understand."
+  },
+  {
+    "question": "Have you used TypeScript professionally?",
+    "answer": "Yes. I've used TypeScript extensively at GlobalLogic while building enterprise SaaS applications for the Wood Mackenzie Lens Platform. I use it daily with React, Next.js, GraphQL, Redux Toolkit, TanStack Query, and Node.js to build scalable and maintainable applications."
+  },
+  {
+    "question": "How do you organize TypeScript in large projects?",
+    "answer": "I separate interfaces, shared types, API models, utility types, and constants into dedicated modules. I also use feature-based folder structures and reusable type definitions to keep large projects organized."
+  },
+  {
+    "question": "What TypeScript features do you use most?",
+    "answer": "I regularly use interfaces, type aliases, generics, utility types, enums, union types, intersection types, optional chaining, nullish coalescing, and type inference."
+  },
+  {
+    "question": "How has TypeScript improved your projects?",
+    "answer": "TypeScript has helped reduce runtime bugs, improve code quality, simplify refactoring, provide better documentation through types, and improve collaboration across development teams."
+  }
+]

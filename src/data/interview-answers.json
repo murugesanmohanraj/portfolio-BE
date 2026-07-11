@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Walk me through a performance optimization you implemented.",
+    "answer": "I analyzed slow page loads using real user metrics, optimized critical rendering paths, implemented code-splitting and lazy loading for non-critical components, and improved API data fetching with RTK Query caching. These changes reduced application load time by ~50%."
+  },
+  {
+    "question": "How do you approach building reusable components?",
+    "answer": "I design components with clear, minimal props, separate presentation from logic, document usage patterns in Storybook, and write unit tests. I aim for composability and accessibility-first implementations."
+  }
+]

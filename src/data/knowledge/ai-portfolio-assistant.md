@@ -1,0 +1,1 @@
+The AI Portfolio Assistant is a conversational UI integrated into the portfolio. It uses a backend prompt builder to assemble structured context (profile, experience, projects, skills) and calls an LLM to return structured JSON responses shown in the UI.

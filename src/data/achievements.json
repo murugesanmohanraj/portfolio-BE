@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Improved Frontend Performance",
+    "company": "GlobalLogic",
+    "description": "Optimized frontend performance for enterprise SaaS applications by improving rendering efficiency, API data fetching, and overall user experience.",
+    "impact": [
+      "Reduced application load time by approximately 50%.",
+      "Improved responsiveness and overall user experience.",
+      "Enhanced application maintainability."
+    ],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "RTK Query",
+      "TanStack Query"
+    ]
+  },
+  {
+    "title": "Reusable Frontend Architecture",
+    "company": "GlobalLogic",
+    "description": "Designed and developed reusable UI components and shared frontend architecture for enterprise SaaS products.",
+    "impact": [
+      "Improved development efficiency.",
+      "Reduced duplicate code.",
+      "Simplified feature development."
+    ],
+    "technologies": ["React", "TypeScript", "Storybook", "Material UI"]
+  },
+  {
+    "title": "LaunchDarkly Feature Flag Implementation",
+    "company": "GlobalLogic",
+    "description": "Implemented LaunchDarkly feature flags to enable controlled feature rollouts and safer deployments.",
+    "impact": [
+      "Reduced deployment risk.",
+      "Enabled gradual feature releases.",
+      "Improved release management."
+    ],
+    "technologies": ["LaunchDarkly", "React", "Node.js"]
+  },
+  {
+    "title": "Enterprise SaaS Development",
+    "company": "GlobalLogic",
+    "description": "Developed customer-facing features for Wood Mackenzie's Lens Platform, a sustainability SaaS product used by enterprise customers.",
+    "impact": [
+      "Delivered scalable production-ready features.",
+      "Improved user experience.",
+      "Supported enterprise sustainability workflows."
+    ],
+    "technologies": ["React", "GraphQL", "AWS", "PostgreSQL"]
+  },
+  {
+    "title": "Appreciation Award",
+    "company": "Millennium IMS Pvt Ltd",
+    "description": "Received an Appreciation Award for significantly improving application responsiveness across desktop, tablet, and mobile devices while reducing page load time by approximately 40%.",
+    "impact": [
+      "Recognized by the organization for technical excellence.",
+      "Reduced page load time by approximately 40%.",
+      "Improved responsiveness across all devices.",
+      "Enhanced overall user experience."
+    ],
+    "technologies": ["React", "JavaScript", "CSS", "Performance Optimization"]
+  },
+  {
+    "title": "POS & E-commerce Applications",
+    "company": "Millennium IMS Pvt Ltd",
+    "description": "Built production-ready Point of Sale (POS) and e-commerce applications supporting retail business operations.",
+    "impact": [
+      "Delivered reliable business applications.",
+      "Improved maintainability using reusable components.",
+      "Supported real-world retail workflows."
+    ],
+    "technologies": ["React", "Next.js", "Node.js", "Express.js", "MongoDB"]
+  },
+  {
+    "title": "Healthcare Platform Development",
+    "company": "Kitkat Software Technologies",
+    "description": "Developed healthcare web and mobile applications for hospitals and clinics, including patient management and clinical workflow features.",
+    "impact": [
+      "Delivered production-ready healthcare solutions.",
+      "Improved application reliability.",
+      "Supported healthcare professionals with efficient workflows."
+    ],
+    "technologies": [
+      "React",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "title": "AI Portfolio Assistant",
+    "company": "Personal Project",
+    "description": "Designed and developed an AI-powered Portfolio Assistant that allows recruiters and visitors to explore my experience, projects, and skills through natural conversations.",
+    "impact": [
+      "Demonstrates practical LLM integration.",
+      "Improves portfolio engagement.",
+      "Showcases AI engineering skills."
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "React Markdown",
+      "LLM APIs"
+    ]
+  }
+]

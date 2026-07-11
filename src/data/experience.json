@@ -1,0 +1,191 @@
+[
+  {
+    "company": "GlobalLogic",
+    "client": "Wood Mackenzie",
+    "location": "Bangalore, Karnataka, India",
+    "employmentType": "Full-time",
+    "role": "Senior Software Engineer",
+    "startDate": "Jun 2024",
+    "endDate": "Present",
+    "duration": "Jun 2024 - Present",
+    "industry": "Enterprise SaaS / Sustainability",
+    "summary": "Working as a Senior Software Engineer developing enterprise sustainability SaaS products for Wood Mackenzie's Lens platform. I build scalable frontend applications, improve performance, implement reusable UI architecture, integrate GraphQL APIs, and deliver customer-facing features using modern web technologies.",
+    "responsibilities": [
+      "Develop enterprise-scale frontend applications using React, TypeScript and Next.js.",
+      "Build reusable UI components and shared frontend architecture.",
+      "Develop and maintain GraphQL and REST API integrations.",
+      "Implement feature flags using LaunchDarkly for controlled feature releases.",
+      "Optimize application performance and user experience.",
+      "Collaborate with designers, product managers and backend engineers.",
+      "Write unit and end-to-end tests using Jest and Playwright.",
+      "Review code and follow engineering best practices.",
+      "Contribute to CI/CD pipelines and deployment improvements.",
+      "Participate in technical discussions and frontend architecture decisions."
+    ],
+    "projects": [
+      {
+        "name": "Wood Mackenzie Lens Platform",
+        "description": "Enterprise sustainability SaaS platform that helps organizations analyze energy, emissions and business data.",
+        "responsibilities": [
+          "Develop customer-facing features.",
+          "Build reusable React components.",
+          "Integrate GraphQL APIs.",
+          "Improve frontend performance.",
+          "Implement LaunchDarkly feature flags."
+        ]
+      }
+    ],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Next.js",
+      "Redux",
+      "RTK Query",
+      "TanStack Query",
+      "GraphQL",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "AWS",
+      "LaunchDarkly",
+      "Jest",
+      "Playwright",
+      "Docker",
+      "Jenkins",
+      "Git"
+    ],
+    "achievements": [
+      "Built scalable customer-facing enterprise SaaS features.",
+      "Improved application performance through frontend optimization.",
+      "Developed reusable frontend architecture for better maintainability.",
+      "Implemented LaunchDarkly feature flags for safer deployments.",
+      "Enhanced deployment workflow using CI/CD practices."
+    ],
+    "skillsLearned": [
+      "Enterprise SaaS",
+      "Frontend Architecture",
+      "Performance Optimization",
+      "GraphQL",
+      "Testing",
+      "Feature Flags",
+      "CI/CD",
+      "Cloud Development"
+    ]
+  },
+  {
+    "company": "Millennium IMS Pvt Ltd",
+    "location": "India",
+    "employmentType": "Full-time",
+    "role": "Software Engineer",
+    "startDate": "Jul 2022",
+    "endDate": "May 2024",
+    "duration": "Jul 2022 - May 2024",
+    "industry": "Retail / POS / E-commerce",
+    "summary": "Developed full-stack retail solutions including Point of Sale (POS) systems and e-commerce applications. Focused on building responsive user interfaces, backend APIs, business workflows and performance optimization.",
+    "responsibilities": [
+      "Developed responsive React applications for retail businesses.",
+      "Built backend services using Node.js and Express.js.",
+      "Developed POS features including billing, inventory and payment workflows.",
+      "Built e-commerce applications using React and Next.js.",
+      "Integrated REST APIs with frontend applications.",
+      "Implemented authentication and authorization.",
+      "Optimized frontend performance and loading speed.",
+      "Ensured responsive layouts across desktop, tablet and mobile devices.",
+      "Worked closely with clients to deliver business requirements."
+    ],
+    "projects": [
+      {
+        "name": "POS Management System",
+        "description": "Retail Point of Sale application supporting billing, inventory management, payment processing and multi-store operations."
+      },
+      {
+        "name": "Food Bazaar",
+        "description": "Modern e-commerce application built with Next.js, providing an optimized online shopping experience."
+      }
+    ],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "MySQL",
+      "Redux",
+      "REST API",
+      "Git"
+    ],
+    "achievements": [
+      "Received an Appreciation Award for improving application responsiveness across desktop, tablet and mobile devices.",
+      "Reduced page load time by approximately 40% through frontend performance optimization.",
+      "Delivered production-ready POS and e-commerce applications.",
+      "Built reusable frontend components that improved maintainability."
+    ],
+    "awards": [
+      {
+        "name": "Appreciation Award",
+        "organization": "Millennium IMS Pvt Ltd",
+        "reason": "Recognized for significantly improving application responsiveness across all devices and reducing page load time by approximately 40%."
+      }
+    ],
+    "skillsLearned": [
+      "Responsive Design",
+      "Frontend Performance",
+      "POS Systems",
+      "E-commerce",
+      "Backend Development",
+      "REST APIs",
+      "Customer Collaboration"
+    ]
+  },
+  {
+    "company": "Kitkat Software Technologies",
+    "location": "India",
+    "employmentType": "Full-time",
+    "role": "Software Engineer",
+    "startDate": "Jul 2020",
+    "endDate": "Jun 2022",
+    "duration": "Jul 2020 - Jun 2022",
+    "industry": "Healthcare",
+    "summary": "Developed healthcare web and mobile applications for hospitals and clinics. Worked on patient management systems, clinical workflows, REST APIs and React Native mobile applications.",
+    "responsibilities": [
+      "Developed responsive healthcare web applications using React.",
+      "Built mobile applications using React Native for Android and iOS.",
+      "Developed backend REST APIs using Node.js and Express.js.",
+      "Implemented patient management and healthcare workflows.",
+      "Collaborated with QA engineers and product teams.",
+      "Improved application performance and reliability.",
+      "Maintained clean, reusable and scalable code."
+    ],
+    "projects": [
+      {
+        "name": "Healthcare Management System",
+        "description": "Web and mobile platform supporting hospitals, clinics, patient management and healthcare workflows."
+      }
+    ],
+    "technologies": [
+      "React",
+      "React Native",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "Git"
+    ],
+    "achievements": [
+      "Developed production-ready healthcare web and mobile applications.",
+      "Improved application performance and reliability.",
+      "Built REST APIs supporting healthcare workflows."
+    ],
+    "skillsLearned": [
+      "Healthcare Domain",
+      "React Native",
+      "Mobile Development",
+      "REST APIs",
+      "Cross-functional Collaboration"
+    ]
+  }
+]

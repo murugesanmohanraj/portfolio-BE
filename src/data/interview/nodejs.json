@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is Node.js?",
+    "answer": "Node.js is a JavaScript runtime built on Chrome's V8 engine that allows JavaScript to run outside the browser. I use Node.js to build REST APIs, backend services, authentication systems, and AI-powered applications."
+  },
+  {
+    "question": "Why do you use Node.js?",
+    "answer": "I use Node.js because it enables full-stack JavaScript development, has excellent performance for I/O-intensive applications, offers a large ecosystem through npm, and integrates seamlessly with React and Express."
+  },
+  {
+    "question": "What is the Node.js event loop?",
+    "answer": "The event loop is the core of Node.js's asynchronous architecture. It allows Node.js to handle many concurrent I/O operations without creating a separate thread for each request, making it highly efficient for web applications."
+  },
+  {
+    "question": "Why is Node.js single-threaded?",
+    "answer": "Node.js executes JavaScript on a single thread while delegating I/O operations such as file access, networking, and database queries to the operating system or libuv thread pool. This keeps the event loop responsive while handling many concurrent requests."
+  },
+  {
+    "question": "What is Express.js?",
+    "answer": "Express.js is a lightweight web framework for Node.js that simplifies routing, middleware, request handling, and API development. I use Express.js to build RESTful backend services for enterprise and personal projects."
+  },
+  {
+    "question": "What is middleware in Express?",
+    "answer": "Middleware consists of functions that execute during the request-response lifecycle. I've used middleware for authentication, authorization, request validation, logging, CORS configuration, and centralized error handling."
+  },
+  {
+    "question": "How do you structure Node.js applications?",
+    "answer": "I organize backend applications using a layered architecture with routes, controllers, services, middleware, utilities, configuration, and database modules. This keeps the code modular, scalable, and easy to maintain."
+  },
+  {
+    "question": "How do you build REST APIs?",
+    "answer": "I design REST APIs with clear resource-based routes, proper HTTP methods, consistent status codes, input validation, centralized error handling, authentication, and clean separation between controllers and business logic."
+  },
+  {
+    "question": "How do you secure Node.js APIs?",
+    "answer": "I secure APIs using JWT authentication, password hashing, input validation, CORS, environment variables for secrets, role-based authorization when needed, and proper error handling without exposing sensitive information."
+  },
+  {
+    "question": "How do you implement authentication?",
+    "answer": "I typically implement authentication using JWT. Users log in with their credentials, the server verifies them, generates a signed token, and the client includes that token in subsequent API requests for authorization."
+  },
+  {
+    "question": "How do you handle errors in Node.js?",
+    "answer": "I use centralized Express error-handling middleware, try-catch blocks for asynchronous operations, meaningful HTTP status codes, structured error responses, and application logging to simplify debugging."
+  },
+  {
+    "question": "How do you connect Node.js with MongoDB?",
+    "answer": "I use MongoDB as the database for several MERN applications. The backend communicates with MongoDB to perform CRUD operations, manage collections, and retrieve application data efficiently."
+  },
+  {
+    "question": "Have you worked with GraphQL in Node.js?",
+    "answer": "Yes. At GlobalLogic, I worked with GraphQL APIs while developing features for the Wood Mackenzie Lens Platform. I consumed GraphQL endpoints from React applications and collaborated on backend integrations."
+  },
+  {
+    "question": "How do you optimize Node.js performance?",
+    "answer": "I optimize Node.js applications by writing efficient asynchronous code, minimizing blocking operations, optimizing database queries, implementing pagination, reducing unnecessary API calls, and designing lightweight REST endpoints."
+  },
+  {
+    "question": "What backend projects have you built?",
+    "answer": "I've built backend services for e-commerce platforms, Point of Sale systems, healthcare applications, music streaming applications, my AI Portfolio Assistant, and other MERN stack projects using Node.js and Express."
+  },
+  {
+    "question": "How do you manage environment variables?",
+    "answer": "I keep sensitive information such as API keys, database credentials, and JWT secrets in environment variables instead of hardcoding them. This improves security and simplifies deployment across environments."
+  },
+  {
+    "question": "How do you test backend APIs?",
+    "answer": "I verify API functionality using tools such as Postman and integrate backend APIs with frontend applications. I also focus on input validation, error handling, and consistent API responses during development."
+  },
+  {
+    "question": "Have you deployed Node.js applications?",
+    "answer": "Yes. I've deployed full-stack applications and backend services, integrated them with frontend applications hosted on platforms such as Netlify, and configured environment variables and production-ready settings."
+  },
+  {
+    "question": "How have you used Node.js professionally?",
+    "answer": "I've used Node.js throughout my career to develop backend services for healthcare systems, Point of Sale solutions, e-commerce platforms, sustainability SaaS applications, and AI-powered portfolio features. My experience includes building REST APIs, authentication systems, database integrations, and full-stack MERN applications."
+  },
+  {
+    "question": "Why do you enjoy working with Node.js?",
+    "answer": "Node.js allows me to use JavaScript across the entire stack, build scalable APIs quickly, share knowledge between frontend and backend development, and develop complete end-to-end applications efficiently."
+  }
+]

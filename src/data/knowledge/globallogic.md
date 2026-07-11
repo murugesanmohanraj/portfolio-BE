@@ -1,0 +1,1 @@
+GlobalLogic is a digital engineering company that provides software development services to enterprise clients. The work referenced in this portfolio includes contributions to Wood Mackenzie's Lens platform, focusing on frontend architecture, performance optimization, and feature development.

@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is React?",
+    "answer": "React is a JavaScript library for building reusable, component-based user interfaces. I primarily use React to build scalable enterprise applications, reusable design systems, and responsive user interfaces."
+  },
+  {
+    "question": "Why do you prefer React?",
+    "answer": "I prefer React because of its component-based architecture, large ecosystem, strong community support, excellent performance, and flexibility. It enables me to build reusable, maintainable, and scalable applications."
+  },
+  {
+    "question": "What are React Hooks?",
+    "answer": "React Hooks allow functional components to use state and lifecycle features. I frequently use useState, useEffect, useMemo, useCallback, useRef, and custom hooks to keep components clean and reusable."
+  },
+  {
+    "question": "What is the Virtual DOM?",
+    "answer": "The Virtual DOM is a lightweight representation of the real DOM. React compares changes using a diffing algorithm and updates only the necessary DOM elements, improving rendering performance."
+  },
+  {
+    "question": "What is React reconciliation?",
+    "answer": "Reconciliation is React's process of comparing the previous Virtual DOM with the updated Virtual DOM to determine the minimum number of DOM changes required."
+  },
+  {
+    "question": "What are controlled and uncontrolled components?",
+    "answer": "Controlled components manage form data through React state, while uncontrolled components rely on the browser DOM using refs. I usually prefer controlled components because they provide better validation and state management."
+  },
+  {
+    "question": "How do you optimize React applications?",
+    "answer": "I optimize React applications using React.memo, useMemo, useCallback, lazy loading, code splitting, efficient state management, pagination, virtualization when needed, API caching with TanStack Query, and reducing unnecessary re-renders."
+  },
+  {
+    "question": "How do you manage state in React?",
+    "answer": "Depending on the application size, I use useState for local state, Context API for shared state, Redux Toolkit for complex global state, and TanStack Query for server state and API caching."
+  },
+  {
+    "question": "What is Redux Toolkit?",
+    "answer": "Redux Toolkit simplifies Redux by reducing boilerplate and providing built-in utilities like createSlice and configureStore. I've used it extensively in enterprise applications."
+  },
+  {
+    "question": "What is TanStack Query?",
+    "answer": "TanStack Query is a library for managing server state. It provides automatic caching, background refetching, pagination, retries, and optimistic updates while reducing manual API management."
+  },
+  {
+    "question": "How do you structure large React applications?",
+    "answer": "I organize applications using feature-based folders, reusable shared components, custom hooks, utility functions, centralized API services, proper routing, and scalable state management."
+  },
+  {
+    "question": "Have you worked with micro-frontends?",
+    "answer": "Yes. At GlobalLogic, I worked on micro-frontend applications for the Wood Mackenzie Lens Platform, allowing independent deployment and development of different frontend modules."
+  },
+  {
+    "question": "How do you handle API calls in React?",
+    "answer": "I typically use GraphQL or REST APIs. Depending on the project, I use TanStack Query, RTK Query, or custom hooks to manage API requests, loading states, caching, and error handling."
+  },
+  {
+    "question": "How do you ensure code quality in React projects?",
+    "answer": "I write reusable components, follow coding standards, perform code reviews, use TypeScript where appropriate, write unit tests with Jest, end-to-end tests with Playwright, and maintain clean project architecture."
+  },
+  {
+    "question": "What React features have you used professionally?",
+    "answer": "I've worked extensively with React Hooks, Redux Toolkit, GraphQL, React Router, Context API, reusable component libraries, micro-frontends, LaunchDarkly feature flags, Jest, Playwright, responsive design, and performance optimization."
+  }
+]

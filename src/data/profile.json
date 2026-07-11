@@ -1,0 +1,120 @@
+{
+  "name": "Mohanraj Murugesan",
+  "headline": "Senior Full Stack Software Engineer",
+  "currentRole": "Senior Software Engineer",
+  "currentCompany": "GlobalLogic",
+  "currentClient": "Wood Mackenzie",
+  "location": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  "experience": {
+    "years": "5+",
+    "level": "Senior"
+  },
+  "summary": "Senior Full Stack Software Engineer with over 5 years of experience building scalable, high-performance web applications and enterprise SaaS products. Specializes in React, TypeScript, Next.js, Node.js, Express.js, GraphQL, PostgreSQL, and AWS. Experienced in delivering customer-facing products from architecture to deployment, improving performance, building reusable component libraries, implementing feature flags, and integrating AI-powered features into modern web applications.",
+  "professionalProfile": {
+    "primaryFocus": [
+      "Frontend Engineering",
+      "Full Stack Development",
+      "Enterprise SaaS",
+      "Performance Optimization",
+      "AI-powered Applications",
+      "Developer Experience"
+    ],
+    "industries": [
+      "Sustainability",
+      "Healthcare",
+      "E-commerce",
+      "Point of Sale (POS)"
+    ],
+    "currentDomain": "Sustainability SaaS"
+  },
+  "careerObjective": "To build modern, scalable, AI-powered products that solve real business problems while creating intuitive user experiences. Currently seeking senior frontend or full stack engineering opportunities where I can contribute to product development, architecture, and engineering excellence.",
+  "strengths": [
+    "Building scalable React applications",
+    "Designing reusable frontend architecture",
+    "Performance optimization",
+    "Modern TypeScript development",
+    "API integration using REST and GraphQL",
+    "Enterprise SaaS product development",
+    "Component-driven development",
+    "Clean and maintainable code",
+    "Feature flag implementation using LaunchDarkly",
+    "CI/CD automation",
+    "AI integration into web applications"
+  ],
+  "workingStyle": {
+    "ownership": true,
+    "collaboration": true,
+    "problemSolving": true,
+    "continuousLearning": true,
+    "codeQuality": true,
+    "userExperienceFocused": true
+  },
+  "currentWork": {
+    "company": "GlobalLogic",
+    "client": "Wood Mackenzie",
+    "role": "Senior Software Engineer",
+    "description": "Developing enterprise sustainability SaaS products used by customers to analyze environmental and business data. Building modern frontend applications using React, TypeScript, Next.js, GraphQL, and AWS while improving performance, maintainability, and user experience."
+  },
+  "previousExperience": [
+    "Millennium IMS Pvt Ltd - Software Engineer",
+    "Kitkat Software Technologies - Software Engineer"
+  ],
+  "specializations": [
+    "React",
+    "TypeScript",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "GraphQL",
+    "PostgreSQL",
+    "AWS",
+    "Micro Frontends",
+    "REST APIs",
+    "Authentication",
+    "Performance Optimization",
+    "Testing",
+    "AI Integration"
+  ],
+  "interests": [
+    "Artificial Intelligence",
+    "Large Language Models (LLMs)",
+    "Modern Frontend Architecture",
+    "Developer Productivity",
+    "User Experience",
+    "Performance Engineering",
+    "System Design"
+  ],
+  "currentlyBuilding": [
+    "AI Portfolio Assistant",
+    "Interactive Portfolio",
+    "LLM-powered Portfolio Experience"
+  ],
+  "availability": {
+    "status": "Open to new opportunities",
+    "relocation": "Willing to relocate internationally, including Germany",
+    "workPreference": ["Onsite", "Hybrid", "Remote"]
+  },
+  "languages": [
+    {
+      "language": "English",
+      "level": "Professional Working Proficiency"
+    },
+    {
+      "language": "Tamil",
+      "level": "Native"
+    }
+  ],
+  "assistantBehavior": {
+    "speakInFirstPerson": true,
+    "tone": "Professional, friendly, and concise",
+    "answerOnlyFromPortfolio": true,
+    "neverInventInformation": true,
+    "suggestRelevantProjects": true,
+    "suggestResume": true,
+    "suggestContact": true
+  }
+}

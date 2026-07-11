@@ -1,0 +1,138 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "category": "Profile"
+  },
+  {
+    "question": "What is your current role?",
+    "category": "Experience"
+  },
+  {
+    "question": "What technologies do you specialize in?",
+    "category": "Skills"
+  },
+  {
+    "question": "How many years of experience do you have?",
+    "category": "Experience"
+  },
+  {
+    "question": "What industries have you worked in?",
+    "category": "Experience"
+  },
+  {
+    "question": "What kind of projects have you worked on?",
+    "category": "Projects"
+  },
+  {
+    "question": "What is your strongest project?",
+    "category": "Projects"
+  },
+  {
+    "question": "Tell me about the Wood Mackenzie Lens Platform.",
+    "category": "Projects"
+  },
+  {
+    "question": "Tell me about the Food Bazaar project.",
+    "category": "Projects"
+  },
+  {
+    "question": "Tell me about your Point of Sale projects.",
+    "category": "Projects"
+  },
+  {
+    "question": "Tell me about your healthcare project.",
+    "category": "Projects"
+  },
+  {
+    "question": "Tell me about your AI Portfolio Assistant.",
+    "category": "Projects"
+  },
+  {
+    "question": "Have you built full-stack applications?",
+    "category": "Skills"
+  },
+  {
+    "question": "Have you worked with React?",
+    "category": "Skills"
+  },
+  {
+    "question": "Have you worked with Next.js?",
+    "category": "Skills"
+  },
+  {
+    "question": "Have you worked with Node.js and Express?",
+    "category": "Skills"
+  },
+  {
+    "question": "Have you worked with GraphQL?",
+    "category": "Skills"
+  },
+  {
+    "question": "Have you worked with React Native?",
+    "category": "Skills"
+  },
+  {
+    "question": "Have you worked with AWS?",
+    "category": "Skills"
+  },
+  {
+    "question": "Have you implemented CI/CD pipelines?",
+    "category": "Skills"
+  },
+  {
+    "question": "Have you worked with LaunchDarkly?",
+    "category": "Skills"
+  },
+  {
+    "question": "How do you optimize React applications?",
+    "category": "Technical"
+  },
+  {
+    "question": "How do you ensure code quality?",
+    "category": "Technical"
+  },
+  {
+    "question": "How do you approach frontend architecture?",
+    "category": "Technical"
+  },
+  {
+    "question": "How do you collaborate with teams?",
+    "category": "Behavioral"
+  },
+  {
+    "question": "What achievements are you most proud of?",
+    "category": "Achievements"
+  },
+  {
+    "question": "Why should we hire you?",
+    "category": "Recruiter"
+  },
+  {
+    "question": "What makes you different from other developers?",
+    "category": "Recruiter"
+  },
+  {
+    "question": "Are you willing to relocate?",
+    "category": "Recruiter"
+  },
+  {
+    "question": "Where are you currently located?",
+    "category": "Recruiter"
+  },
+  {
+    "question": "Can I download your resume?",
+    "category": "Navigation"
+  },
+  {
+    "question": "How can I contact you?",
+    "category": "Navigation"
+  },
+  {
+    "question": "Where can I find your GitHub?",
+    "category": "Navigation"
+  },
+  {
+    "question": "Where can I find your LinkedIn profile?",
+    "category": "Navigation"
+  }
+]

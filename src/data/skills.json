@@ -1,0 +1,108 @@
+{
+  "frontend": {
+    "primary": [
+      "React",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "Next.js",
+      "React Native"
+    ],
+    "stateManagement": [
+      "Redux",
+      "Redux Toolkit",
+      "RTK Query",
+      "TanStack Query"
+    ],
+    "styling": [
+      "Tailwind CSS",
+      "Material UI",
+      "CSS3",
+      "SCSS",
+      "Styled Components",
+      "Responsive Web Design"
+    ],
+    "visualization": ["Highcharts", "D3.js", "Three.js"],
+    "buildTools": ["Vite", "Webpack"]
+  },
+  "backend": {
+    "languages": ["JavaScript", "TypeScript"],
+    "frameworks": ["Node.js", "Express.js"],
+    "apiDevelopment": ["REST API", "GraphQL"],
+    "authentication": ["JWT", "OAuth 2.0", "Auth0"]
+  },
+  "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+  "cloud": {
+    "platforms": ["AWS"],
+    "services": ["Lambda", "S3", "CloudFront", "EC2", "ECS", "DynamoDB"]
+  },
+  "testing": {
+    "frameworks": ["Jest", "Playwright", "Cypress"],
+    "testingTypes": [
+      "Unit Testing",
+      "Integration Testing",
+      "End-to-End Testing"
+    ]
+  },
+  "devOps": {
+    "versionControl": ["Git", "GitHub", "Bitbucket"],
+    "ciCd": ["GitHub Actions", "Jenkins"],
+    "containers": ["Docker"]
+  },
+  "architecture": [
+    "Component-Based Architecture",
+    "Micro Frontends",
+    "Responsive Web Design",
+    "SSR",
+    "SSG",
+    "CSR",
+    "Performance Optimization",
+    "Reusable UI Components",
+    "Frontend Architecture"
+  ],
+  "ai": {
+    "experience": [
+      "LLM Integration",
+      "Prompt Engineering",
+      "Streaming AI Responses",
+      "AI Portfolio Assistant",
+      "OpenRouter API"
+    ],
+    "currentlyLearning": [
+      "Retrieval-Augmented Generation (RAG)",
+      "Embeddings",
+      "Vector Databases",
+      "Local LLM Deployment"
+    ],
+    "tools": ["Claude", "GitHub Copilot", "OpenRouter"]
+  },
+  "tools": ["VS Code", "Postman", "LaunchDarkly", "Figma", "Jira"],
+  "softSkills": [
+    "Problem Solving",
+    "Team Collaboration",
+    "Code Review",
+    "Technical Mentoring",
+    "Communication",
+    "Ownership",
+    "Agile Development",
+    "Continuous Learning"
+  ],
+  "domains": [
+    "Enterprise SaaS",
+    "Sustainability",
+    "Healthcare",
+    "Retail",
+    "E-commerce",
+    "Point of Sale (POS)"
+  ],
+  "strengths": [
+    "Building scalable React applications",
+    "Frontend performance optimization",
+    "Reusable component development",
+    "TypeScript development",
+    "GraphQL integration",
+    "Enterprise application development",
+    "Responsive UI development",
+    "Modern frontend architecture",
+    "AI-powered web applications"
+  ]
+}

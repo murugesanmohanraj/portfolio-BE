@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "Summarize Mohanraj's frontend strengths in one paragraph.",
+    "purpose": "Quick summary for recruiters or landing pages"
+  },
+  {
+    "prompt": "List top 5 projects and the technologies used for each.",
+    "purpose": "Generate a concise project-technology table"
+  },
+  {
+    "prompt": "Give three interview talking points for Mohanraj about performance optimization.",
+    "purpose": "Prep for interviews"
+  }
+]

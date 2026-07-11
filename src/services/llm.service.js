@@ -1,8 +1,22 @@
 const { buildPortfolioPrompt } = require("./prompt.service");
+const portfolioContext = require("../data/portfolioContext");
 const { normalizeAssistantResponse } = require("../utils/responseFormatter");
 
-async function getAssistantReply(userMessage, options = {}) {
+function buildAssistantMessages(userMessage, options = {}) {
   const prompt = buildPortfolioPrompt(userMessage, options.context);
+  const systemPrompt =
+    (options.context && options.context.systemPrompt) ||
+    portfolioContext.systemPrompt ||
+    "You are a helpful portfolio assistant.";
+
+  return [
+    { role: "system", content: systemPrompt },
+    { role: "user", content: prompt },
+  ];
+}
+
+async function getAssistantReply(userMessage, options = {}) {
+  const messages = buildAssistantMessages(userMessage, options);
 
   if (process.env.LLM_PROVIDER !== "openai") {
     const normalized = (userMessage || "").trim().toLowerCase();
@@ -80,10 +94,7 @@ async function getAssistantReply(userMessage, options = {}) {
       body: JSON.stringify({
         model,
         temperature: 0.3,
-        messages: [
-          { role: "system", content: "You are a helpful portfolio assistant." },
-          { role: "user", content: prompt },
-        ],
+        messages,
       }),
     });
 
@@ -151,7 +162,7 @@ async function getAssistantReply(userMessage, options = {}) {
   }
 }
 
-module.exports = { getAssistantReply };
+module.exports = { getAssistantReply, buildAssistantMessages };
 
 async function checkLLMStatus() {
   const apiKey =

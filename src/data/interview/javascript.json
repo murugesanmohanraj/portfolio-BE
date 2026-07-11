@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a high-level, interpreted programming language used to build interactive web applications. I use modern JavaScript (ES6+) extensively for building scalable frontend applications with React and backend services using Node.js."
+  },
+  {
+    "question": "What are the differences between var, let, and const?",
+    "answer": "var is function-scoped and can be redeclared, which can lead to unexpected behavior. let is block-scoped and can be reassigned but not redeclared. const is block-scoped and cannot be reassigned after initialization. In my projects, I primarily use const by default and let only when reassignment is required."
+  },
+  {
+    "question": "What is hoisting?",
+    "answer": "Hoisting is JavaScript's behavior of moving declarations to the top of their scope before execution. Function declarations are fully hoisted, while variables declared with var are initialized as undefined. Variables declared with let and const are hoisted but remain in the Temporal Dead Zone until initialized."
+  },
+  {
+    "question": "What is the Temporal Dead Zone (TDZ)?",
+    "answer": "The Temporal Dead Zone is the period between entering a block scope and the initialization of a let or const variable. Accessing the variable before initialization throws a ReferenceError."
+  },
+  {
+    "question": "What are closures?",
+    "answer": "A closure is created when a function remembers variables from its outer scope even after that scope has finished executing. I've used closures in custom React hooks, event handlers, utility functions, and module encapsulation."
+  },
+  {
+    "question": "What is the event loop?",
+    "answer": "The event loop allows JavaScript to perform asynchronous operations despite being single-threaded. It continuously checks the call stack and moves completed asynchronous callbacks from the task queues into the call stack for execution."
+  },
+  {
+    "question": "What are Promises?",
+    "answer": "Promises represent the eventual completion or failure of an asynchronous operation. In my projects, I use Promises extensively for API calls, database operations, and asynchronous business logic."
+  },
+  {
+    "question": "What is async/await?",
+    "answer": "async/await provides a cleaner way to work with Promises. It makes asynchronous code easier to read, maintain, and debug compared to chaining multiple .then() calls."
+  },
+  {
+    "question": "What is the difference between == and ===?",
+    "answer": "== performs type coercion before comparison, whereas === compares both value and type without coercion. I always prefer === to avoid unexpected behavior and improve code reliability."
+  },
+  {
+    "question": "What are arrow functions?",
+    "answer": "Arrow functions provide a shorter syntax and inherit the this value from their surrounding scope. I frequently use them in React components, callbacks, array methods, and utility functions."
+  },
+  {
+    "question": "What is destructuring?",
+    "answer": "Destructuring allows extracting values from objects and arrays into variables. I use it extensively throughout React components, function parameters, Redux state, and API responses to improve readability."
+  },
+  {
+    "question": "What are template literals?",
+    "answer": "Template literals allow embedded expressions and multiline strings using backticks. They improve readability when constructing dynamic strings, URLs, and formatted messages."
+  },
+  {
+    "question": "What are spread and rest operators?",
+    "answer": "The spread operator expands arrays and objects, while the rest operator collects remaining elements into a single variable. I frequently use them for immutable state updates, object merging, and function parameters."
+  },
+  {
+    "question": "What is object immutability?",
+    "answer": "Immutability means creating new objects instead of modifying existing ones. This is especially important in React and Redux because it enables predictable state updates and efficient rendering."
+  },
+  {
+    "question": "How do you handle asynchronous operations?",
+    "answer": "I primarily use async/await with proper try-catch error handling. For frontend applications, I often combine it with TanStack Query or RTK Query to handle caching, loading states, retries, and error handling."
+  },
+  {
+    "question": "What array methods do you use most often?",
+    "answer": "I frequently use map, filter, find, reduce, some, every, sort, forEach, and flatMap for transforming and processing application data in React and Node.js projects."
+  },
+  {
+    "question": "How do you improve JavaScript performance?",
+    "answer": "I reduce unnecessary computations, debounce expensive operations, lazy load modules, optimize loops, minimize DOM updates, memoize expensive calculations, and use efficient data structures when appropriate."
+  },
+  {
+    "question": "What is event delegation?",
+    "answer": "Event delegation is a technique where a parent element handles events for its child elements using event bubbling. It improves performance by reducing the number of event listeners."
+  },
+  {
+    "question": "How do you debug JavaScript applications?",
+    "answer": "I use Chrome DevTools, browser breakpoints, console debugging, network inspection, React Developer Tools, source maps, and structured logging. I also write unit and end-to-end tests to identify issues early."
+  },
+  {
+    "question": "How have you used JavaScript professionally?",
+    "answer": "JavaScript has been the foundation of my work across React, Next.js, Node.js, Express.js, React Native, GraphQL integrations, enterprise SaaS applications, e-commerce platforms, POS systems, healthcare solutions, and my AI Portfolio Assistant."
+  }
+]

@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "lens-platform",
+    "title": "Wood Mackenzie Lens Platform",
+    "company": "GlobalLogic",
+    "client": "Wood Mackenzie",
+    "industry": "Enterprise SaaS / Sustainability",
+    "projectType": "Professional",
+    "status": "Production",
+    "role": "Senior Software Engineer",
+    "duration": "Jun 2024 - Present",
+    "shortDescription": "An enterprise SaaS platform that delivers market intelligence, sustainability insights, and advanced analytics for the energy, chemicals, metals, and mining industries.",
+
+    "overview": [
+      "The Wood Mackenzie Lens Platform is an enterprise SaaS application that provides market intelligence, sustainability analytics, and business insights through interactive dashboards and data-rich applications.",
+      "As part of the development team, I build scalable micro-frontend applications using React, TypeScript, GraphQL, Redux, and modern frontend technologies.",
+      "The platform helps global organizations analyze complex datasets, monitor sustainability metrics, and make data-driven business decisions through secure, high-performance web applications."
+    ],
+
+    "problemSolved": "Enterprise customers needed a scalable platform capable of visualizing large datasets, delivering sustainability insights, and supporting business-critical decision making with excellent performance and usability.",
+
+    "myResponsibilities": [
+      "Develop customer-facing features using React and TypeScript.",
+      "Build reusable and scalable UI components.",
+      "Develop and maintain GraphQL integrations.",
+      "Optimize frontend performance and application responsiveness.",
+      "Implement LaunchDarkly feature flags for controlled feature releases.",
+      "Write unit tests using Jest.",
+      "Write end-to-end tests using Playwright.",
+      "Participate in code reviews and architectural discussions.",
+      "Collaborate with designers, product managers, and backend engineers.",
+      "Contribute to CI/CD deployment workflows."
+    ],
+
+    "businessFeatures": [
+      "Interactive dashboards",
+      "Business intelligence",
+      "Market analytics",
+      "Sustainability metrics",
+      "Enterprise reporting",
+      "Data visualization",
+      "Search and filtering",
+      "Customer-specific workflows"
+    ],
+
+    "technologies": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Redux",
+      "GraphQL",
+      "Hydrocarbon Design System",
+      "Node.js",
+      "Jest",
+      "Playwright",
+      "Cypress",
+      "AWS",
+      "Docker",
+      "Jenkins",
+      "GitHub"
+    ],
+
+    "keyAchievements": [
+      "Built scalable customer-facing enterprise SaaS features.",
+      "Improved frontend performance and responsiveness.",
+      "Developed reusable UI components for faster development.",
+      "Implemented LaunchDarkly feature flags for safe deployments.",
+      "Maintained high code quality through automated testing and code reviews."
+    ],
+
+    "skillsDemonstrated": [
+      "React",
+      "TypeScript",
+      "GraphQL",
+      "Enterprise SaaS Development",
+      "Performance Optimization",
+      "Reusable Component Design",
+      "Frontend Architecture",
+      "Testing",
+      "CI/CD",
+      "Feature Flag Implementation"
+    ],
+
+    "interviewHighlights": [
+      "Worked on an enterprise SaaS platform used by global customers.",
+      "Developed scalable micro-frontends.",
+      "Worked extensively with GraphQL.",
+      "Implemented LaunchDarkly feature flags.",
+      "Focused heavily on frontend performance optimization."
+    ],
+
+    "whatILearned": [
+      "Enterprise frontend architecture",
+      "GraphQL best practices",
+      "Micro-frontend development",
+      "Feature flag driven development",
+      "Scalable React application design",
+      "Working within large cross-functional teams"
+    ],
+
+    "link": "",
+    "featured": true
+  },
+  {
+    "id": "food-bazaar",
+    "title": "Food Bazaar E-Commerce Application",
+    "company": "Millennium IMS Pvt Ltd",
+    "industry": "E-Commerce",
+    "projectType": "Professional",
+    "status": "Production",
+    "role": "Software Engineer",
+    "duration": "Jul 2022 - May 2024",
+    "shortDescription": "A full-stack e-commerce platform for online food ordering and delivery, featuring responsive user interfaces, real-time order tracking, secure payments, and an administrative dashboard for efficient business management.",
+
+    "overview": [
+      "Food Bazaar is a modern full-stack e-commerce platform that enables customers to browse products, place orders, track deliveries in real time, and complete secure online payments through a responsive web application.",
+      "As a Full Stack Software Engineer, I contributed to both the frontend and backend using React, Next.js, Node.js, Express.js, and MongoDB. My responsibilities included building scalable features, integrating REST APIs, implementing authentication, and optimizing application performance.",
+      "The platform includes customer-facing capabilities such as personalized profiles, order tracking, daily offers, secure payment processing, and an administrative dashboard for managing restaurants, orders, inventory, and customers.",
+      "Throughout the project, I collaborated with designers, QA engineers, and backend developers while following Agile practices, CI/CD pipelines, and modern software engineering standards."
+    ],
+
+    "problemSolved": "The business required a scalable online food ordering platform capable of providing a fast, secure, and responsive shopping experience while simplifying restaurant management, order processing, inventory management, and customer operations.",
+
+    "myResponsibilities": [
+      "Developed responsive frontend pages using React and Next.js.",
+      "Built backend services using Node.js and Express.js.",
+      "Designed and integrated RESTful APIs.",
+      "Implemented user authentication and authorization.",
+      "Developed reusable UI components.",
+      "Integrated order management workflows.",
+      "Optimized frontend performance and loading speed.",
+      "Improved responsiveness across desktop, tablet, and mobile devices.",
+      "Collaborated with cross-functional teams during feature development.",
+      "Participated in Agile ceremonies, code reviews, and deployment activities."
+    ],
+
+    "businessFeatures": [
+      "User Registration and Login",
+      "Restaurant Listing",
+      "Product Catalog",
+      "Product Search and Filtering",
+      "Shopping Cart",
+      "Wishlist",
+      "Secure Checkout",
+      "Online Payment",
+      "Order Tracking",
+      "Daily Offers",
+      "Customer Profile",
+      "Restaurant Management",
+      "Inventory Management",
+      "Order Management",
+      "Admin Dashboard"
+    ],
+
+    "technologies": [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "Tailwind CSS",
+      "Ant Design",
+      "AWS",
+      "Docker",
+      "Jenkins",
+      "Kubernetes",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Delivered production-ready e-commerce features.",
+      "Developed reusable frontend components.",
+      "Improved application performance and responsiveness.",
+      "Built scalable REST APIs for business workflows.",
+      "Contributed to CI/CD deployment pipelines.",
+      "Delivered a responsive user experience across multiple devices."
+    ],
+
+    "skillsDemonstrated": [
+      "Full Stack Development",
+      "React Development",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "REST API Development",
+      "MongoDB",
+      "Responsive Design",
+      "Performance Optimization",
+      "Redux",
+      "Cloud Deployment",
+      "CI/CD"
+    ],
+
+    "interviewHighlights": [
+      "Built both frontend and backend features.",
+      "Worked on a production e-commerce platform.",
+      "Developed scalable REST APIs.",
+      "Improved application performance.",
+      "Implemented authentication and secure business workflows.",
+      "Collaborated closely with cross-functional teams."
+    ],
+
+    "whatILearned": [
+      "Building scalable e-commerce platforms.",
+      "Designing reusable frontend architecture.",
+      "REST API design and integration.",
+      "Performance optimization techniques.",
+      "Cloud deployment workflows.",
+      "CI/CD best practices.",
+      "Cross-functional team collaboration.",
+      "Production-ready full stack development."
+    ],
+
+    "link": "",
+    "featured": true
+  },
+  {
+    "id": "pos-service-industry",
+    "title": "Point of Sale - Service Industry",
+    "company": "Millennium IMS Pvt Ltd",
+    "industry": "Service Management",
+    "projectType": "Professional",
+    "status": "Production",
+    "role": "Software Engineer",
+    "duration": "Jul 2022 - May 2024",
+    "shortDescription": "A cloud-based Point of Sale (POS) solution designed for service-oriented businesses such as salons, spas, automobile service centers, repair shops, and other appointment-based businesses.",
+
+    "overview": [
+      "The Service Industry POS is a comprehensive business management platform that helps service-based businesses streamline appointments, billing, customer management, employee management, and payment processing.",
+      "I contributed as a Full Stack Software Engineer, developing responsive frontend interfaces, backend APIs, reusable components, and business workflows that improved operational efficiency.",
+      "The application supports appointment scheduling, invoicing, customer relationship management, employee scheduling, service history, inventory tracking, and real-time reporting through an intuitive dashboard.",
+      "Throughout the project, I collaborated with business stakeholders and development teams to deliver scalable features while maintaining code quality and application performance."
+    ],
+
+    "problemSolved": "Service-based businesses often struggle with managing appointments, customers, invoices, employees, and payments using disconnected tools. This POS system centralized these operations into a single platform, improving efficiency and customer experience.",
+
+    "myResponsibilities": [
+      "Developed responsive frontend modules using React.",
+      "Built reusable UI components for multiple POS modules.",
+      "Developed backend APIs using Node.js and Express.js.",
+      "Integrated billing and payment workflows.",
+      "Implemented appointment scheduling functionality.",
+      "Built customer and employee management features.",
+      "Integrated inventory management modules.",
+      "Optimized frontend performance and responsiveness.",
+      "Worked closely with QA engineers and business analysts.",
+      "Participated in code reviews and Agile development."
+    ],
+
+    "businessFeatures": [
+      "Appointment Scheduling",
+      "Service Booking",
+      "Customer Management",
+      "Employee Management",
+      "Invoice Generation",
+      "Billing System",
+      "Payment Processing",
+      "Inventory Management",
+      "Service History",
+      "Reports and Analytics",
+      "Dashboard",
+      "Role-Based Access",
+      "Notifications"
+    ],
+
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "Material UI",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Delivered production-ready POS features for service-based businesses.",
+      "Built reusable frontend components across multiple business modules.",
+      "Improved application responsiveness on desktop, tablet, and mobile devices.",
+      "Developed scalable REST APIs supporting core business workflows.",
+      "Contributed to improving overall application maintainability."
+    ],
+
+    "skillsDemonstrated": [
+      "Full Stack Development",
+      "React Development",
+      "Node.js",
+      "REST API Development",
+      "Business Workflow Design",
+      "Responsive Web Design",
+      "Performance Optimization",
+      "Reusable Component Development",
+      "Customer Management Systems"
+    ],
+
+    "interviewHighlights": [
+      "Built a production-ready POS application for service businesses.",
+      "Worked across both frontend and backend.",
+      "Developed appointment scheduling and billing workflows.",
+      "Improved responsiveness and user experience.",
+      "Built reusable components used across multiple modules."
+    ],
+
+    "whatILearned": [
+      "Designing business management applications.",
+      "Building scalable POS systems.",
+      "Managing complex business workflows.",
+      "Creating reusable frontend architecture.",
+      "Improving application performance.",
+      "Collaborating with cross-functional teams.",
+      "Delivering customer-focused software solutions."
+    ],
+
+    "link": "",
+    "featured": false
+  },
+  {
+    "id": "pos-retail-industry",
+    "title": "Point of Sale - Retail Industry",
+    "company": "Millennium IMS Pvt Ltd",
+    "industry": "Retail",
+    "projectType": "Professional",
+    "status": "Production",
+    "role": "Software Engineer",
+    "duration": "Jul 2022 - May 2024",
+    "shortDescription": "A comprehensive cloud-based Point of Sale (POS) solution designed for retail businesses, enabling efficient billing, inventory management, customer engagement, and multi-store operations.",
+
+    "overview": [
+      "The Retail POS system helps retail businesses streamline daily operations by providing fast billing, inventory tracking, customer management, sales reporting, and multi-store administration.",
+      "As a Full Stack Software Engineer, I developed responsive frontend interfaces, backend APIs, reusable components, and business workflows that improved operational efficiency and user experience.",
+      "The platform supports barcode scanning, stock management, purchase orders, customer loyalty programs, discounts, returns, multiple payment methods, and real-time sales analytics.",
+      "Throughout the project, I collaborated with business stakeholders, QA engineers, and developers to deliver scalable features while maintaining performance, responsiveness, and code quality."
+    ],
+
+    "problemSolved": "Retail businesses require a reliable system to efficiently manage sales, inventory, customers, and multiple store locations. This POS platform centralized these operations into a single solution, reducing manual work and improving business productivity.",
+
+    "myResponsibilities": [
+      "Developed responsive frontend modules using React.",
+      "Built reusable UI components for retail workflows.",
+      "Developed backend APIs using Node.js and Express.js.",
+      "Implemented billing and checkout workflows.",
+      "Developed inventory and stock management modules.",
+      "Integrated barcode-based product management.",
+      "Implemented customer management and loyalty features.",
+      "Optimized frontend performance and responsiveness.",
+      "Collaborated with QA engineers and business analysts.",
+      "Participated in Agile development, code reviews, and deployment activities."
+    ],
+
+    "businessFeatures": [
+      "Fast Billing",
+      "Barcode Scanning",
+      "Inventory Management",
+      "Stock Management",
+      "Purchase Orders",
+      "Product Catalog",
+      "Customer Management",
+      "Customer Loyalty Program",
+      "Discount & Promotions",
+      "Sales Returns",
+      "Exchange Management",
+      "Multi-Store Management",
+      "Role-Based Access Control",
+      "Reports & Analytics",
+      "Dashboard",
+      "Multiple Payment Methods"
+    ],
+
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "Material UI",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Delivered production-ready retail POS features.",
+      "Developed reusable frontend components across multiple retail modules.",
+      "Built scalable backend APIs supporting retail operations.",
+      "Improved application responsiveness across desktop, tablet, and mobile devices.",
+      "Enhanced maintainability through reusable architecture and modular development."
+    ],
+
+    "skillsDemonstrated": [
+      "Full Stack Development",
+      "React Development",
+      "Node.js",
+      "REST API Development",
+      "Retail Management Systems",
+      "Inventory Management",
+      "Business Workflow Design",
+      "Responsive Web Design",
+      "Performance Optimization",
+      "Reusable Component Development"
+    ],
+
+    "interviewHighlights": [
+      "Built a production-ready Retail POS application.",
+      "Worked across both frontend and backend development.",
+      "Developed inventory management and billing modules.",
+      "Implemented barcode and customer management workflows.",
+      "Improved application performance and responsiveness."
+    ],
+
+    "whatILearned": [
+      "Retail business workflows.",
+      "Inventory and stock management systems.",
+      "Building scalable POS applications.",
+      "Designing reusable frontend architecture.",
+      "Developing business-critical REST APIs.",
+      "Performance optimization techniques.",
+      "Cross-functional team collaboration."
+    ],
+
+    "link": "",
+    "featured": false
+  },
+  {
+    "id": "pos-food-industry",
+    "title": "Point of Sale - Food Industry",
+    "company": "Millennium IMS Pvt Ltd",
+    "industry": "Restaurant & Food Services",
+    "projectType": "Professional",
+    "status": "Production",
+    "role": "Software Engineer",
+    "duration": "Jul 2022 - May 2024",
+    "shortDescription": "A cloud-based Point of Sale (POS) solution designed for restaurants, cafés, bakeries, and food chains to streamline order management, kitchen operations, billing, inventory, and customer service.",
+
+    "overview": [
+      "The Food Industry POS system enables restaurants and food businesses to efficiently manage dine-in, takeaway, and delivery orders through a centralized platform.",
+      "As a Full Stack Software Engineer, I developed responsive frontend interfaces, backend APIs, reusable components, and business workflows that improved restaurant operations and customer experience.",
+      "The platform supports menu management, table management, kitchen order processing, billing, inventory tracking, customer management, and sales reporting.",
+      "I collaborated with cross-functional teams to build scalable features while maintaining performance, responsiveness, and code quality."
+    ],
+
+    "problemSolved": "Restaurants and food businesses require a fast and reliable system to manage orders, kitchen workflows, billing, inventory, and customer service. This POS platform centralized these operations into a single solution, reducing manual effort and improving operational efficiency.",
+
+    "myResponsibilities": [
+      "Developed responsive frontend modules using React.",
+      "Built reusable UI components for restaurant workflows.",
+      "Developed backend APIs using Node.js and Express.js.",
+      "Implemented dine-in, takeaway, and delivery order workflows.",
+      "Developed menu and category management modules.",
+      "Built billing and payment processing features.",
+      "Implemented table management functionality.",
+      "Integrated inventory and stock management.",
+      "Optimized frontend performance and responsiveness.",
+      "Collaborated with QA engineers, designers, and business analysts.",
+      "Participated in Agile development, code reviews, and deployment activities."
+    ],
+
+    "businessFeatures": [
+      "Dine-In Orders",
+      "Takeaway Orders",
+      "Delivery Orders",
+      "Table Management",
+      "Table Reservations",
+      "Kitchen Order Ticket (KOT)",
+      "Menu Management",
+      "Category Management",
+      "Billing & Checkout",
+      "Split Billing",
+      "Multiple Payment Methods",
+      "Inventory Management",
+      "Recipe & Ingredient Tracking",
+      "Customer Management",
+      "Discounts & Offers",
+      "Reports & Analytics",
+      "Dashboard",
+      "Role-Based Access Control"
+    ],
+
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "Material UI",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Delivered production-ready restaurant POS features.",
+      "Built reusable frontend components for food-service workflows.",
+      "Developed scalable backend APIs supporting restaurant operations.",
+      "Improved application responsiveness across desktop, tablet, and mobile devices.",
+      "Enhanced maintainability through modular frontend architecture."
+    ],
+
+    "skillsDemonstrated": [
+      "Full Stack Development",
+      "React Development",
+      "Node.js",
+      "REST API Development",
+      "Restaurant Management Systems",
+      "Order Management",
+      "Kitchen Workflow Management",
+      "Inventory Management",
+      "Responsive Web Design",
+      "Performance Optimization",
+      "Reusable Component Development"
+    ],
+
+    "interviewHighlights": [
+      "Built a production-ready Food Industry POS application.",
+      "Worked across both frontend and backend development.",
+      "Developed restaurant order management workflows.",
+      "Implemented table management and kitchen order processing.",
+      "Built billing and payment modules.",
+      "Improved application performance and user experience."
+    ],
+
+    "whatILearned": [
+      "Restaurant business workflows.",
+      "Kitchen order management systems.",
+      "Designing scalable POS applications.",
+      "Building reusable frontend architecture.",
+      "Developing business-critical REST APIs.",
+      "Performance optimization techniques.",
+      "Cross-functional team collaboration."
+    ],
+
+    "link": "",
+    "featured": false
+  },
+  {
+    "id": "european-snack-quality-assurance",
+    "title": "European Snack Quality Assurance",
+    "company": "Kitkat Software Technologies",
+    "industry": "Food Manufacturing",
+    "projectType": "Professional",
+    "status": "Production",
+    "role": "Software Engineer",
+    "duration": "Jul 2020 - Jun 2022",
+    "shortDescription": "A web and mobile quality assurance platform developed for a European snack manufacturing company to streamline product quality inspections, manufacturing workflows, compliance, and production monitoring.",
+
+    "overview": [
+      "The application was developed for a European snack manufacturing company to digitize and simplify quality assurance processes throughout the manufacturing lifecycle.",
+      "I contributed to both the web and mobile applications using React, React Native, Node.js, Express.js, and MongoDB, building scalable features for quality inspection and production management.",
+      "The platform enabled quality engineers and manufacturing teams to monitor production, perform inspections, record quality checks, manage production batches, and maintain compliance through a centralized system.",
+      "I worked closely with cross-functional teams to deliver responsive applications while following clean architecture and software engineering best practices."
+    ],
+
+    "problemSolved": "Manufacturing teams required a centralized platform to manage quality inspections, monitor production batches, maintain compliance, and reduce manual quality assurance processes across both web and mobile devices.",
+
+    "myResponsibilities": [
+      "Developed responsive web applications using React.",
+      "Built cross-platform mobile applications using React Native.",
+      "Developed backend REST APIs using Node.js and Express.js.",
+      "Integrated frontend and mobile applications with backend services.",
+      "Implemented quality assurance and production management workflows.",
+      "Built reusable UI components.",
+      "Optimized application performance and responsiveness.",
+      "Fixed production issues and enhanced existing features.",
+      "Collaborated with QA engineers, business analysts, and developers.",
+      "Participated in Agile development and code reviews."
+    ],
+
+    "businessFeatures": [
+      "Quality Inspection Management",
+      "Production Batch Tracking",
+      "Manufacturing Workflow Management",
+      "Compliance Management",
+      "Quality Checklists",
+      "Issue Reporting",
+      "Audit History",
+      "Dashboard & Reports",
+      "Role-Based Access Control",
+      "Mobile Quality Inspections"
+    ],
+
+    "technologies": [
+      "React",
+      "React Native",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "Redux",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Developed both web and mobile applications from a shared business domain.",
+      "Built reusable components for faster feature development.",
+      "Implemented quality assurance workflows for manufacturing operations.",
+      "Improved application responsiveness and usability.",
+      "Delivered production-ready features for enterprise customers."
+    ],
+
+    "skillsDemonstrated": [
+      "React",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API Development",
+      "Cross-Platform Mobile Development",
+      "Enterprise Application Development",
+      "Business Workflow Implementation",
+      "Responsive UI Development"
+    ],
+
+    "interviewHighlights": [
+      "Built both web and mobile applications.",
+      "Worked in the food manufacturing domain.",
+      "Developed quality assurance workflows.",
+      "Built REST APIs using the MERN stack.",
+      "Collaborated with cross-functional teams in an Agile environment."
+    ],
+
+    "whatILearned": [
+      "Manufacturing quality assurance processes.",
+      "Cross-platform mobile application development.",
+      "Enterprise MERN stack development.",
+      "Building reusable React and React Native components.",
+      "Designing scalable REST APIs.",
+      "Working with enterprise manufacturing workflows."
+    ],
+
+    "link": "",
+    "featured": false
+  },
+  {
+    "id": "dottycare-healthcare-management",
+    "title": "DottyCare Healthcare Management",
+    "company": "Kitkat Software Technologies",
+    "industry": "Healthcare",
+    "projectType": "Professional",
+    "status": "Production",
+    "role": "Software Engineer",
+    "duration": "Jul 2020 - Jun 2022",
+    "shortDescription": "A comprehensive healthcare management platform built for hospitals and clinics to streamline patient care, appointment scheduling, clinical workflows, and healthcare operations through web and mobile applications.",
+
+    "overview": [
+      "DottyCare is a healthcare management platform designed to simplify hospital and clinic operations through modern web and mobile applications.",
+      "I contributed to both the web and mobile applications using React, React Native, Node.js, Express.js, and MongoDB, developing scalable features for healthcare professionals and patients.",
+      "The platform enables healthcare providers to manage appointments, patient records, clinical workflows, and daily healthcare operations from a centralized system.",
+      "I worked closely with cross-functional teams to build reliable, responsive, and user-friendly applications while following software engineering best practices."
+    ],
+
+    "problemSolved": "Hospitals and clinics required a centralized digital platform to efficiently manage patient information, appointments, clinical workflows, and healthcare operations while improving accessibility for both healthcare professionals and patients.",
+
+    "myResponsibilities": [
+      "Developed responsive web applications using React.",
+      "Built cross-platform mobile applications using React Native.",
+      "Developed backend REST APIs using Node.js and Express.js.",
+      "Integrated frontend applications with backend services.",
+      "Implemented patient and appointment management workflows.",
+      "Built reusable UI components for healthcare modules.",
+      "Optimized application performance and responsiveness.",
+      "Fixed production issues and enhanced existing features.",
+      "Collaborated with QA engineers, business analysts, and developers.",
+      "Participated in Agile development, sprint planning, and code reviews."
+    ],
+
+    "businessFeatures": [
+      "Patient Management",
+      "Appointment Scheduling",
+      "Doctor Management",
+      "Clinical Workflows",
+      "Electronic Health Records",
+      "Medical History",
+      "Prescription Management",
+      "Notifications",
+      "Dashboard & Reports",
+      "Role-Based Access Control",
+      "Mobile Healthcare Access"
+    ],
+
+    "technologies": [
+      "React",
+      "React Native",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "Redux",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Developed both web and mobile healthcare applications.",
+      "Built reusable frontend components.",
+      "Implemented healthcare workflows using the MERN stack.",
+      "Improved application responsiveness and usability.",
+      "Delivered production-ready healthcare features."
+    ],
+
+    "skillsDemonstrated": [
+      "React",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API Development",
+      "Cross-Platform Mobile Development",
+      "Healthcare Domain",
+      "Enterprise Application Development",
+      "Responsive UI Development"
+    ],
+
+    "interviewHighlights": [
+      "Built both web and mobile healthcare applications.",
+      "Worked in the healthcare domain.",
+      "Developed REST APIs using the MERN stack.",
+      "Implemented patient management and appointment scheduling features.",
+      "Collaborated with cross-functional teams in an Agile environment."
+    ],
+
+    "whatILearned": [
+      "Healthcare management workflows.",
+      "Hospital and clinic operations.",
+      "Cross-platform mobile application development.",
+      "Enterprise MERN stack development.",
+      "Building scalable healthcare applications.",
+      "Developing reusable React and React Native components.",
+      "Working with sensitive business-critical applications."
+    ],
+
+    "link": "",
+    "featured": false
+  },
+  {
+    "id": "dope-music",
+    "title": "Dope Music",
+    "company": "Personal Project",
+    "industry": "Music Streaming",
+    "projectType": "Personal",
+    "status": "Completed",
+    "role": "Full Stack Developer",
+    "duration": "Personal Project",
+    "shortDescription": "A modern music streaming web application built to provide users with an engaging experience for discovering, browsing, and playing music through a clean and responsive interface.",
+
+    "overview": [
+      "Dope Music is a modern music streaming application that demonstrates my frontend development skills by delivering an intuitive and responsive user experience.",
+      "The application focuses on creating a clean interface for browsing music, managing playlists, and enjoying seamless playback across devices.",
+      "While building this project, I emphasized reusable React components, responsive layouts, state management, and overall application performance."
+    ],
+
+    "problemSolved": "The goal was to build a visually appealing music streaming application that demonstrates modern frontend development practices, responsive design, and reusable component architecture.",
+
+    "myResponsibilities": [
+      "Designed and developed the complete frontend application.",
+      "Built reusable React components.",
+      "Implemented responsive layouts for desktop, tablet, and mobile devices.",
+      "Managed application state efficiently.",
+      "Integrated music playback functionality.",
+      "Optimized application performance and user experience.",
+      "Implemented modern UI and navigation patterns."
+    ],
+
+    "businessFeatures": [
+      "Music Library",
+      "Album Browsing",
+      "Artist Browsing",
+      "Playlist Management",
+      "Music Player",
+      "Search",
+      "Responsive Design",
+      "Modern User Interface"
+    ],
+
+    "technologies": [
+      "React",
+      "JavaScript",
+      "CSS3",
+      "HTML5",
+      "Redux",
+      "REST API",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Designed and built the application independently.",
+      "Demonstrated modern React development practices.",
+      "Created reusable UI components.",
+      "Delivered a responsive user experience across devices.",
+      "Improved understanding of frontend architecture and state management."
+    ],
+
+    "skillsDemonstrated": [
+      "React",
+      "JavaScript",
+      "Responsive Web Design",
+      "Component-Based Architecture",
+      "State Management",
+      "Frontend Development",
+      "Performance Optimization",
+      "UI/UX Development"
+    ],
+
+    "interviewHighlights": [
+      "Built the application independently.",
+      "Focused on reusable React components.",
+      "Implemented responsive UI design.",
+      "Demonstrated modern frontend architecture.",
+      "Applied performance optimization techniques."
+    ],
+
+    "whatILearned": [
+      "Building scalable React applications.",
+      "Creating reusable component architecture.",
+      "State management techniques.",
+      "Responsive UI development.",
+      "Frontend performance optimization.",
+      "Designing engaging user experiences."
+    ],
+
+    "link": "",
+    "featured": false
+  },
+  {
+    "id": "dope-music",
+    "title": "Dope Music",
+    "company": "Personal Project",
+    "industry": "Music Streaming",
+    "projectType": "Personal",
+    "status": "Completed",
+    "role": "Full Stack Developer",
+    "duration": "Personal Project",
+    "shortDescription": "A full-stack music streaming web application built using the MERN stack, allowing users to discover, stream, and manage music through a modern, responsive interface with secure authentication.",
+
+    "overview": [
+      "Dope Music is a full-stack music streaming web application that demonstrates my ability to build complete MERN stack applications from frontend to backend.",
+      "The application allows users to register, authenticate securely, browse music, search for songs, manage playlists, and stream music through an intuitive user interface.",
+      "I developed both the frontend and backend, designed REST APIs, implemented authentication, managed the database, and focused on performance, scalability, and responsive user experience.",
+      "This project strengthened my understanding of full-stack architecture, authentication, API design, database modeling, and reusable React component development."
+    ],
+
+    "problemSolved": "The objective was to build a complete music streaming platform where users could securely manage their accounts, discover music, organize playlists, and enjoy a seamless listening experience using a scalable MERN architecture.",
+
+    "myResponsibilities": [
+      "Designed the complete application architecture.",
+      "Developed the frontend using React.",
+      "Built backend REST APIs using Node.js and Express.js.",
+      "Designed MongoDB database schemas.",
+      "Implemented secure user authentication and authorization.",
+      "Developed music library and playlist management features.",
+      "Built reusable React components.",
+      "Implemented search functionality.",
+      "Optimized application performance.",
+      "Designed responsive layouts for desktop and mobile browsers."
+    ],
+
+    "businessFeatures": [
+      "User Registration",
+      "User Login",
+      "Authentication & Authorization",
+      "Music Library",
+      "Song Search",
+      "Artist Browsing",
+      "Album Browsing",
+      "Playlist Management",
+      "Music Streaming",
+      "Recently Played",
+      "Favorite Songs",
+      "Responsive User Interface"
+    ],
+
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "JWT Authentication",
+      "HTML5",
+      "CSS3",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Built a complete MERN stack application independently.",
+      "Designed and developed both frontend and backend.",
+      "Implemented secure authentication using JWT.",
+      "Developed reusable React components.",
+      "Designed scalable REST APIs.",
+      "Built a responsive and modern user interface."
+    ],
+
+    "skillsDemonstrated": [
+      "Full Stack Development",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API Development",
+      "JWT Authentication",
+      "Database Design",
+      "Component-Based Architecture",
+      "Responsive Web Design"
+    ],
+
+    "interviewHighlights": [
+      "Built the entire application independently.",
+      "Designed both frontend and backend architecture.",
+      "Implemented secure authentication.",
+      "Created custom REST APIs.",
+      "Designed MongoDB collections and relationships.",
+      "Demphasized reusable components and scalable architecture."
+    ],
+
+    "whatILearned": [
+      "End-to-end MERN stack development.",
+      "Authentication and authorization using JWT.",
+      "REST API design best practices.",
+      "MongoDB data modeling.",
+      "Scalable React architecture.",
+      "Backend application development.",
+      "Building production-style full-stack applications."
+    ],
+
+    "repository": "",
+    "liveDemo": "",
+    "link": "",
+    "featured": false
+  },
+  {
+    "id": "zimson-watches",
+    "title": "Zimson Watches",
+    "company": "Personal Project",
+    "industry": "E-Commerce",
+    "projectType": "Personal",
+    "status": "Completed",
+    "role": "Full Stack Developer",
+    "duration": "Personal Project",
+    "shortDescription": "A full-stack MERN e-commerce web application inspired by Zimson Watches, featuring product browsing, authentication, shopping cart, wishlist, checkout, and order management through a modern and responsive user interface.",
+
+    "overview": [
+      "Zimson Watches is a custom-built full-stack e-commerce application inspired by the Zimson watch retail experience. The project demonstrates my ability to build scalable MERN stack applications from frontend to backend.",
+      "I independently designed and developed the complete application, including the frontend, backend, REST APIs, authentication, database design, and responsive user interface.",
+      "The platform enables users to browse watch collections, search products, manage wishlists, add items to the shopping cart, complete checkout, and manage their orders through an intuitive shopping experience.",
+      "The project focuses on clean architecture, reusable React components, secure authentication, responsive layouts, and scalable backend development."
+    ],
+
+    "problemSolved": "The goal was to build a complete modern e-commerce application that provides users with a smooth online shopping experience while demonstrating end-to-end MERN stack development and real-world e-commerce workflows.",
+
+    "myResponsibilities": [
+      "Designed the overall application architecture.",
+      "Developed the frontend using React.",
+      "Built backend REST APIs using Node.js and Express.js.",
+      "Designed MongoDB collections and database relationships.",
+      "Implemented secure user authentication and authorization.",
+      "Developed product catalog and product detail pages.",
+      "Implemented shopping cart functionality.",
+      "Built wishlist management.",
+      "Implemented checkout and order management workflows.",
+      "Created reusable React components.",
+      "Optimized application performance.",
+      "Designed responsive layouts for desktop, tablet, and mobile devices."
+    ],
+
+    "businessFeatures": [
+      "User Registration",
+      "User Login",
+      "JWT Authentication",
+      "Product Catalog",
+      "Product Details",
+      "Product Search",
+      "Category Filtering",
+      "Shopping Cart",
+      "Wishlist",
+      "Checkout",
+      "Order Management",
+      "User Profile",
+      "Responsive Design"
+    ],
+
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "JWT Authentication",
+      "HTML5",
+      "CSS3",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Built a complete MERN stack e-commerce application independently.",
+      "Designed scalable REST APIs.",
+      "Implemented secure JWT-based authentication.",
+      "Developed reusable React components.",
+      "Built complete shopping cart and checkout workflows.",
+      "Designed responsive user interfaces across multiple devices."
+    ],
+
+    "skillsDemonstrated": [
+      "Full Stack Development",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API Development",
+      "JWT Authentication",
+      "Database Design",
+      "Responsive Web Design",
+      "Component-Based Architecture",
+      "E-Commerce Development"
+    ],
+
+    "interviewHighlights": [
+      "Built the complete application independently.",
+      "Designed both frontend and backend architecture.",
+      "Implemented JWT authentication and authorization.",
+      "Developed complete e-commerce workflows.",
+      "Designed MongoDB data models.",
+      "Built reusable React components.",
+      "Focused on scalable full-stack architecture."
+    ],
+
+    "whatILearned": [
+      "Building production-style e-commerce applications.",
+      "Designing scalable MERN architecture.",
+      "JWT authentication and authorization.",
+      "MongoDB schema design.",
+      "REST API best practices.",
+      "Shopping cart and order management workflows.",
+      "Responsive frontend development.",
+      "Performance optimization."
+    ],
+
+    "repository": "",
+    "liveDemo": "",
+    "link": "",
+    "featured": false
+  },
+  {
+    "id": "ai-portfolio-assistant",
+    "title": "AI Portfolio Assistant",
+    "company": "Personal Project",
+    "industry": "Artificial Intelligence",
+    "projectType": "Personal",
+    "status": "In Progress",
+    "role": "Full Stack Developer",
+    "duration": "2026 - Present",
+    "shortDescription": "An intelligent AI-powered portfolio assistant that helps recruiters and hiring managers explore my experience, projects, skills, and resume through natural language conversations.",
+
+    "overview": [
+      "AI Portfolio Assistant is an interactive chatbot integrated into my personal portfolio to provide recruiters with an easier way to learn about my professional background.",
+      "Instead of manually browsing pages, visitors can ask natural language questions such as 'Tell me about yourself', 'Show your React projects', or 'Why should we hire you?', and receive contextual responses instantly.",
+      "The application uses a React frontend with a Node.js and Express backend. Portfolio knowledge is organized into structured JSON and Markdown files, allowing the assistant to answer consistently while remaining easy to maintain and extend.",
+      "The project was designed with future LLM integration in mind, making it easy to upgrade from a rule-based assistant to a Retrieval-Augmented Generation (RAG) architecture using embeddings and vector databases."
+    ],
+
+    "problemSolved": "Recruiters often spend only a few minutes reviewing a portfolio. This assistant helps them quickly discover relevant information through conversational interactions instead of navigating multiple pages manually.",
+
+    "myResponsibilities": [
+      "Designed the complete application architecture.",
+      "Built the chatbot interface using React.",
+      "Developed backend APIs using Node.js and Express.js.",
+      "Designed a structured knowledge base using JSON and Markdown.",
+      "Implemented intent detection and response generation.",
+      "Built contextual navigation actions such as opening projects, resume, and contact sections.",
+      "Implemented conversation history management.",
+      "Developed reusable UI components.",
+      "Designed responsive layouts for desktop, tablet, and mobile devices.",
+      "Prepared the architecture for future LLM and RAG integration."
+    ],
+
+    "businessFeatures": [
+      "Natural Language Questions",
+      "Portfolio Knowledge Base",
+      "Conversation History",
+      "Suggested Questions",
+      "Quick Navigation Actions",
+      "Resume Navigation",
+      "Project Navigation",
+      "Skills Discovery",
+      "Recruiter-Friendly Responses",
+      "Responsive User Interface",
+      "Expandable AI Architecture"
+    ],
+
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "React Markdown",
+      "REST API",
+      "JSON",
+      "Markdown",
+      "CSS",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Designed and built the complete application independently.",
+      "Created a structured AI knowledge base from my professional experience.",
+      "Built a conversational interface specifically for recruiters.",
+      "Designed a scalable backend architecture ready for LLM integration.",
+      "Improved portfolio discoverability through conversational navigation."
+    ],
+
+    "skillsDemonstrated": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "REST API Development",
+      "AI Application Design",
+      "Prompt Engineering",
+      "Knowledge Base Design",
+      "Conversation Design",
+      "Responsive Web Design",
+      "Frontend Architecture",
+      "Backend Architecture"
+    ],
+
+    "interviewHighlights": [
+      "Designed an AI-powered portfolio assistant from scratch.",
+      "Built both frontend and backend independently.",
+      "Created a structured knowledge base using JSON and Markdown.",
+      "Designed the system to support future LLM and RAG integration.",
+      "Focused on recruiter experience and conversational UX.",
+      "Applied AI concepts without relying entirely on external AI services."
+    ],
+
+    "whatILearned": [
+      "AI assistant architecture.",
+      "Prompt engineering fundamentals.",
+      "Conversation design.",
+      "Knowledge base organization.",
+      "Backend architecture for AI applications.",
+      "Preparing applications for LLM integration.",
+      "Building scalable full-stack AI applications.",
+      "Designing user-centric conversational experiences."
+    ],
+
+    "repository": "",
+    "liveDemo": "",
+    "link": "",
+    "featured": true
+  },
+  {
+    "id": "personal-portfolio",
+    "title": "Developer Portfolio Website",
+    "company": "Personal Project",
+    "industry": "Personal Branding",
+    "projectType": "Personal",
+    "status": "Active",
+    "role": "Full Stack Developer",
+    "duration": "2025 - Present",
+    "shortDescription": "A modern, responsive portfolio website showcasing my professional experience, projects, technical skills, resume, and AI-powered Portfolio Assistant through an interactive and performance-focused user experience.",
+
+    "overview": [
+      "My portfolio website serves as a central platform where recruiters, hiring managers, and fellow developers can explore my professional journey, technical expertise, and software engineering projects.",
+      "The application is built using React with a strong focus on modern UI design, smooth user interactions, accessibility, responsiveness, and performance optimization.",
+      "It features interactive project showcases, downloadable resume, contact information, and an AI Portfolio Assistant that allows visitors to explore my experience using natural language conversations.",
+      "The project demonstrates frontend architecture, reusable component design, state management, responsive layouts, API integration, and modern deployment practices."
+    ],
+
+    "problemSolved": "Traditional portfolios often require visitors to manually browse multiple pages to find relevant information. This portfolio improves the experience through intuitive navigation, interactive project showcases, and an AI-powered assistant that quickly answers recruiter questions.",
+
+    "myResponsibilities": [
+      "Designed the complete UI and user experience.",
+      "Developed the frontend using React.",
+      "Created reusable and modular React components.",
+      "Implemented responsive layouts for desktop, tablet, and mobile devices.",
+      "Integrated the AI Portfolio Assistant.",
+      "Built project showcase pages with detailed information.",
+      "Implemented smooth animations and modern interactions.",
+      "Optimized application performance and loading speed.",
+      "Configured deployment using Netlify.",
+      "Continuously enhanced the portfolio with new features and improvements."
+    ],
+
+    "businessFeatures": [
+      "Responsive Design",
+      "Project Showcase",
+      "Professional Experience Timeline",
+      "Skills Overview",
+      "Download Resume",
+      "Contact Section",
+      "AI Portfolio Assistant",
+      "Suggested Questions",
+      "Interactive Navigation",
+      "Smooth Animations",
+      "Dark Theme",
+      "Mobile-Friendly Layout"
+    ],
+
+    "technologies": [
+      "React",
+      "JavaScript",
+      "React Router",
+      "React Markdown",
+      "CSS3",
+      "HTML5",
+      "Node.js",
+      "Express.js",
+      "REST API",
+      "Netlify",
+      "GitHub",
+      "Git"
+    ],
+
+    "keyAchievements": [
+      "Designed and developed the portfolio independently.",
+      "Built a modern responsive user experience.",
+      "Integrated an AI-powered Portfolio Assistant.",
+      "Created reusable React component architecture.",
+      "Optimized the website for performance and usability.",
+      "Successfully deployed and maintained the application on Netlify."
+    ],
+
+    "skillsDemonstrated": [
+      "React",
+      "Frontend Architecture",
+      "Responsive Web Design",
+      "Component-Based Development",
+      "Performance Optimization",
+      "UI/UX Design",
+      "REST API Integration",
+      "Full Stack Development",
+      "Deployment",
+      "AI Integration"
+    ],
+
+    "interviewHighlights": [
+      "Designed the complete application independently.",
+      "Built a responsive portfolio with modern React.",
+      "Integrated a custom AI Portfolio Assistant.",
+      "Focused on recruiter experience and usability.",
+      "Applied modern frontend engineering best practices.",
+      "Continuously evolves the portfolio by adding new features."
+    ],
+
+    "whatILearned": [
+      "Building production-quality frontend applications.",
+      "Modern React architecture.",
+      "Responsive UI design.",
+      "Performance optimization techniques.",
+      "Deploying applications using Netlify.",
+      "Designing reusable component libraries.",
+      "Improving user experience through iterative enhancements.",
+      "Integrating AI into real-world web applications."
+    ],
+
+    "repository": "",
+    "liveDemo": "https://mohanrajdev.netlify.app",
+    "link": "https://mohanrajdev.netlify.app",
+    "featured": true
+  }
+]
